@@ -10,16 +10,12 @@ The objective of each assignment is:
 
 3. Completion of the implementation of the simple “Register Operation Expressions Language" (ROL) language.
 
-4.  
+4.1. A completion of the implementation of the simple "First Class ROL" (FROL) language that we have started to implement in the previous assignment – In the substitution model. 
 
-  4.1. A completion of the implementation of the simple "First Class ROL" (FROL) language that we have started to implement in the previous assignment – In the substitution model. 
+4.2. Counting free instances in the substitution model "First Class Language" (FLANG) interpreter. 
 
-  4.2. Counting free instances in the substitution model "First Class Language" (FLANG) interpreter. 
+4.3. A touch on the difference between the substitution model and the substitution-cache model (static vs. dynamic scoping).
 
-  4.3. A touch on the difference between the substitution model and the substitution-cache model (static vs. dynamic scoping).
+5.1. A completion of the implementation of the simple FROL language that we have started to implement in the previous assignment – In the environment model. 
 
-5.
-
-  5.1. A completion of the implementation of the simple FROL language that we have started to implement in the previous assignment – In the environment model. 
-
-  5.2. Implementing with expressions as a syntactic sugar (through call and fun). 
+5.2. Implementing with expressions as a syntactic sugar (through call and fun). 
